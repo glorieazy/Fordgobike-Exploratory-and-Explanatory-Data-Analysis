@@ -18,9 +18,9 @@ In the Exploration, the summary of findings are underlisted below:
 >2. Dont Share   9.9%
 
 Outside of the main varialbe of interest, i verified that the riders' birth years span between 1878 and 2001; the major riders' birth year lie between 1975 and 2000. Also, after inspecting deeply the dataset below are the list of most and least patroled Stations either start or end station.
->1. Most Patroled Stations
+**Most Patroled Stations**
 
->>1. Market St at 10th St
+1. Market St at 10th St
 2. San Francisco Caltrain Station 2  (Townsend St at 4th St)
 3. Berry St at 4th St
 4. Montgomery St BART Station (Market St at 2nd St)
@@ -30,9 +30,9 @@ Outside of the main varialbe of interest, i verified that the riders' birth year
 8. Steuart St at Market St
 9. Powell St BART Station (Market St at 5th St)
 
->2. Least Patroled Stations
+**Least Patroled Stations**
 
->>1. Backesto Park (Jackson St at 13th St)
+1. Backesto Park (Jackson St at 13th St)
 2. Leavenworth St at Broadway
 3. Taylor St at 9th St
 4. Farnam St at Fruitvale Ave
